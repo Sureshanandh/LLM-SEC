@@ -22,7 +22,7 @@ Inspired by tools like SQLMap, but built for LLM Offensive Security.
 ## 📦 Installation
 
 ### 1. Clone the Repo
-git clone https://github.com/YOUR_USERNAME/LLM-SEC.git
+git clone https://github.com/Sureshanandh/LLM-SEC.git
 
 cd LLM-SEC
 
