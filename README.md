@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 Run:
 
-python llm-sec.py
+python LLM-SEC.py
 
 
 Follow the on-screen prompts.
